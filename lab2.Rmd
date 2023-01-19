@@ -138,7 +138,7 @@ final_mdl<-lm(f2, data=penguins_clean)
 Our final model:
 `r equatiomatic::extract_eq(final_mdl, wrap=TRUE)`
 
-And with coeficients:
-`r equatiomatic::extract_eq(final_mdl, wrap=TRUE, use_coefs=TRUE`
+# WILL NOT KNIT, IDK WHY
+
 
 
